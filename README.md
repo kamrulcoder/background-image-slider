@@ -5,7 +5,8 @@
 >
 >>  That's what  I am learning javascript new sysntax or code here ..............
 
-1. 
+1. **foreach Loop **
+1. **classList Contains **
 
 
 > 
