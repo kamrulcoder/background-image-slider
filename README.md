@@ -5,8 +5,12 @@
 >
 >>  That's what  I am learning javascript new sysntax or code here ..............
 
-1. **foreach Loop **
-1. **classList Contains **
+1. **DOM Manipulation**
+1. **Control Structures**
+1. **Arrays**
+1. **Array.forEach()**
+1. **JavaScript CSS Manipulation**
+1. **eventListeners**
 
 
 > 
