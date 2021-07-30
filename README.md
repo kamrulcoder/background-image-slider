@@ -1,4 +1,4 @@
-# background Image slider  vinilla javascript project 
+# [background Image slider  vinilla javascript project](https://kamrulcoder.github.io/background-image-slider/) 
 
 ## This project is very simple and straightforward. but I can learn something through this project. 
 
